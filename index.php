@@ -23,4 +23,4 @@
 </html>
 
 
-<footer><?php include('assets/footer/footer.php');?></footer>
+<footer><p class="footer">Villager Boy Web | 2022 - 2023</p></footer>
