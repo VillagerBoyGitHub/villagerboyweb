@@ -16,11 +16,11 @@
     
     <title>Staff | Villager Boy Web</title>
 <div>
-    <a href="https://vboy.it">Home</a>
-    <a class="menu" href="https://vboy.it/staff">Staff</a>
+    <a href="https://www.vboy.it">Home</a>
+    <a class="menu" style="color:#fff" href="https://vboy.it/staff">Staff</a>
     <a class="menu" href="https://vboy.it/villager-client">Villager Client</a>
 </div>
-    <center><h1 class="title">Home</h1></center>
+    <center><h1 class="title">Staff</h1></center>
 </head>
 
 <body>
