@@ -5,6 +5,15 @@
     text-decoration: underline;
 }
 
+.vboy-buttons {
+    color: #23de36;
+    background-color: #3023de;
+    border-radius: 100px;
+    padding: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+    transition: all 0.5s cubic-bezier(0, -0.07, 0, 0.91);
+}
+
 *{font-family: Roboto;}
 
 
