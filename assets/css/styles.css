@@ -64,7 +64,7 @@ a:hover {
     src: url(../fonts/ARIAL.woff);
 }
 
-.menu{
+a.menu{
     margin-left: 15px;
 }
 
