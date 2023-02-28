@@ -68,3 +68,9 @@ a.menu{
     margin-left: 14px;
 }
 
+::selection{
+
+    background-color:#332f06;
+    color: #dddddd
+    
+}
